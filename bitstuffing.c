@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void bitStuffing(int N, int arr[]) {
     int count = 0;
     for (int i = 0; i < N; i++) {
